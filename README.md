@@ -6,7 +6,8 @@ The primary objective of this project was to assist the owner of Madhav Store in
 
 Getting Started
 
-To view and interact with the dashboard, you'll need Power BI Desktop. You can download and install it from the Microsoft Store or by following this link(https://www.microsoft.com/en-us/download/details.aspx?id=58494).
+To view and interact with the dashboard, you'll need Power BI Desktop. You can download and install it from the Microsoft Store or
+by following this link(https://www.microsoft.com/en-us/download/details.aspx?id=58494).
 
 Data Source
 
