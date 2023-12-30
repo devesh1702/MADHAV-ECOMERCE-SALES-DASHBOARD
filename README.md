@@ -1,3 +1,6 @@
+![Screenshot (26)](https://github.com/devesh1702/MADHAV-ECOMERCE-SALES-DASHBOARD/assets/92182581/3e4226e5-35b6-47d0-a24d-af9223f79d7c)
+
+
 Welcome to the Madhav Store Ecommerce Sales Dashboard repository! This project was created using Power BI Desktop to help the owner of Madhav Store track and analyze their online sales across India.
 
 Project Objective
